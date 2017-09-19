@@ -1,0 +1,26 @@
+.entity {
+	width: 49px;
+	height: 49px;
+	border: 1px solid #000;
+	display: inline-block;
+    margin-top: -4px;
+}
+.pacman {
+	background-color: yellow;
+}
+.wall {
+	background-color: #7b1fa2;
+	border-color: #531579;
+}
+.food {
+	background-color: yellow;
+	width: 29px;
+	height: 29px;
+	border: 11px solid #000;
+}
+.ghost {
+	background-color: white;
+}
+.void {
+	background-color: #000;
+}
